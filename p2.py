@@ -13,3 +13,4 @@ for line in myfile.readlines():
         if word=='Flatland':
             count=count+1
 print(count)
+#tuqa 
